@@ -70,3 +70,5 @@ With access to real-world discharge and follow-up data, next steps would include
 - Validating performance across different patient populations
 - Collaborating with care teams to select operational thresholds
 - Monitoring for bias and unintended workflow consequences over time
+- Implementing a clinician override pathway to capture contextual risk not reflected in structured discharge data
+
