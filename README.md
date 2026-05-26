@@ -1,5 +1,12 @@
 # Early Warning Model for Post-Discharge Follow-Up Failure
 
+> **Notice:** This repository is for educational and architectural demonstration 
+> purposes only. The logic and data models contained herein are not intended for 
+> use in clinical decision-making, patient care, or production-level healthcare 
+> environments. They have not been validated for safety, compliance, or regulatory 
+> requirements. For inquiries regarding clinical AI governance, model validation, 
+> or safety architectural audits, please contact the author.
+
 ## Problem Overview
 
 Failure to complete timely outpatient follow-up after hospitalization is associated with higher readmission risk, missed clinical deterioration, and fragmented care coordination.  
