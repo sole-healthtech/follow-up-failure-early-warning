@@ -79,3 +79,6 @@ With access to real-world discharge and follow-up data, next steps would include
 - Monitoring for bias and unintended workflow consequences over time
 - Implementing a clinician override pathway to capture contextual risk not reflected in structured discharge data
 
+## Work with me
+
+I audit clinical AI systems for failure modes that technical testing cannot catch. [Book a discovery call →](https://calendly.com/sole-clinicalai/30min)
